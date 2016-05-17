@@ -1,0 +1,77 @@
+<project name="VisualTrading" default="all" basedir=".">
+
+    <property name="version" value="2.2.1"/>
+    <property name="debug" value="true"/>
+    <property name="dir.out" value="classes"/>
+    <property name="dir.lib" value="lib"/>
+    <property name="dir.doc" value="docs"/>
+    <property name="dir.dist" value="dist"/>
+    <property name="dir.conf" value="conf"/>
+    <property name="file.jar" value="${ant.project.name}.jar"/>
+
+    <path id="base.classpath" path="${dir.out}">
+        <fileset dir="${dir.lib}"/>
+    </path>
+
+    <target name="doc">
+        <mkdir dir="${dir.doc}"/>
+
+        <javadoc destdir="${dir.doc}/api"
+                 author="true"
+                 version="true"
+                 use="true"
+                 windowtitle="${ant.project.name} API"
+        >
+
+            <fileset dir="src" defaultexcludes="yes"/>
+
+        </javadoc>
+
+    </target>
+
+    <target name="-init">
+        <tstamp>
+            <format property="time" pattern="MM/dd/yyyy hh:mm aa"
+                    offset="-5" unit="hour"/>
+        </tstamp>
+    </target>
+
+    <target name="clean">
+        <delete dir="${dir.out}"/>
+        <delete dir="${dir.doc}"/>
+    </target>
+
+    <target name="compile" depends="-init">
+        <mkdir dir="${dir.out}"/>
+        <javac srcdir="src"
+               destdir="${dir.out}"
+               extdirs="${dir.lib}"
+               debug="${debug}"
+               target="1.1"
+               deprecation="on">
+            <classpath refid="base.classpath"/>
+        </javac>
+    </target>
+
+    <target name="cleanlogs">
+        <delete>
+            <fileset dir="." includes="TEST*.txt,*.log"/>
+        </delete>
+    </target>
+
+    <target name="build" depends="-init,compile">
+        <mkdir dir="${dir.dist}"/>
+
+        <jar destfile="${dir.dist}/${file.jar}">
+            <fileset dir="${dir.out}"/>
+            <manifest>
+                <attribute name="Built-Date" value="${TODAY}"/>
+                <attribute name="Build-Version" value="${version}"/>
+            </manifest>
+        </jar>
+
+    </target>
+
+    <target name="all" depends="clean,compile"/>
+
+</project>
