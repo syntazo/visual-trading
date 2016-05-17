@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Frame visible="true" size="300,100" title="my frame" cols="2" rows="3" gap="5">
+    <CHILDREN layout="border">
+        <NORTH>
+            <MenuBar>
+                <CHILDREN>
+                    <Menu title="File">
+                        <CHILDREN>
+                            <Label label="Save Desktop"/>
+                            <Label label="Save Desktop As..."/>
+                            <Label label="Load Desktop..."/>
+                            <Label label="Reload Desktop"/>
+                            <Label label="Load template..."/>
+                            <Label label="Lock Application"/>
+                            <Label label="Page Setup..."/>
+                            <Label label="Print Preview"/>
+                            <Label label="Print..."/>
+                            <Label label="Exit"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Edit">
+                        <CHILDREN>
+                            <Label label="Copy"/>
+                            <Label label="Paste"/>
+                            <Label label="Preferences..."/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="View">
+                        <CHILDREN>
+                            <Label label="View Statusbar"/>
+                            <Label label="View Messagebar"/>
+                            <Label label="BMA OAS Calculator"/>
+                            <Label label="Session"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Market">
+                        <CHILDREN>
+                            <Label label="Price Info"/>
+                            <Label label="Price Depth"/>
+                            <Label label="Trade History"/>
+                            <Label label="Order Depth"/>
+                            <Label label="Order Manager"/>
+                            <Label label="Stack Window"/>
+                            <Label label="Logbook"/>
+                            <Label label="Reload Prices"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Orders">
+                        <CHILDREN>
+                            <Label label="Enter Order"/>
+                            <Label label="Inactivate All Orders"/>
+                            <Label label="Delete All My Orders"/>
+                            <Label label="Delete All Our Orders"/>
+                            <Label label="Create TM Repo"/>
+                            <Label label="Enter Hedge Order"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Bulk Order">
+                        <CHILDREN>
+                            <Label label="Bulk Order"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Window">
+                        <CHILDREN>
+                            <Label label="Always on Top"/>
+                            <Label label="Main Frame Always on Top"/>
+                            <Label label="Floating"/>
+                            <Label label="Fixed"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Help">
+                        <CHILDREN>
+                            <Label label="User Guide"/>
+                            <Label label="BrokerTec help"/>
+                            <Label label="Send Logs"/>
+                            <Label label="About"/>
+                        </CHILDREN>
+                    </Menu>
+                    <Menu title="Contact Us">
+                        <CHILDREN>
+                            <Label label="From US, dial:"/>
+                            <Label label="    Btec US 201.209.7900"/>
+                            <Label label="    Btec London 011.44.207.000.5800"/>
+                            <Label label="    Btec Tokyo 011.813.4514.6802"/>
+                            <Label label="    Market.Support@btec.com"/>
+                            <Label label="From outside US, dial:"/>
+                            <Label label="    Btec US +1 201.209 7900"/>
+                            <Label label="    Btec London +44 207 000 5800"/>
+                            <Label label="    Btec Tokyo +813 4514 6802"/>
+                            <Label label="    btec_uk_mksupt@btec.com"/>
+                        </CHILDREN>
+                    </Menu>
+                </CHILDREN>
+            </MenuBar>
+        </NORTH>
+        <WEST>
+            <Button label="WEST" focusListen="on"/>
+        </WEST>
+        <EAST>
+            <Combo class="com.icap.btecapplet.gui.stack.orderpanel.TypeCombo" label="EAST" id="hello"/>
+        </EAST>
+        <CENTER>
+            <CheckBox label="CENTER" id="hello"/>
+        </CENTER>
+        <SOUTH>
+            <Panel visible="true" background="#EE00DD" layout="grid" cols="1" rows="2" gap="5">
+                <CHILDREN>
+                    <CONSTRAINTS colSpan="1" fill="HORIZONTAL">
+                        <Combo>
+                            <CHILDREN>
+                                <Label label="FaS 1"/>
+                                <Label label="FaS 2"/>
+                                <Label label="FaS 3"/>
+                                <Label label="FaS 4"/>
+                                <Label label="FaS 5"/>
+                                <Label label="FaS 6"/>
+                            </CHILDREN>
+                        </Combo>
+                    </CONSTRAINTS>
+                    <Panel layout="grid" rows="1" cols="2">
+                        <CHILDREN>
+                            <Button label="OK" border="br.raised"/>
+                            <Button label="CANCEL" border="br.raised"/>
+                        </CHILDREN>
+                    </Panel>
+                </CHILDREN>
+            </Panel>
+        </SOUTH>
+    </CHILDREN>
+</Frame>
+
+
+

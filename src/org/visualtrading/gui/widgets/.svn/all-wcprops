@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/projects/!svn/ver/349/VisualTrading/src/org/visualtrading/gui/widgets
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Input.java
+END
+Panel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Panel.java
+END
+ColorChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/ColorChooser.java
+END
+ScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/ScrollPane.java
+END
+SizeSpin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/213/VisualTrading/src/org/visualtrading/gui/widgets/SizeSpin.java
+END
+DoubleSpin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/DoubleSpin.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Window.java
+END
+Expendable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/349/VisualTrading/src/org/visualtrading/gui/widgets/Expendable.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/List.java
+END
+DoubleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/DoubleField.java
+END
+SimpleMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/SimpleMenu.java
+END
+FocusRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/FocusRequester.java
+END
+FocusRequesterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/FocusRequesterHelper.java
+END
+Notebook.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Notebook.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/MenuItem.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Table.java
+END
+MenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/MenuBar.java
+END
+FakeSpin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/FakeSpin.java
+END
+FakeButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/FakeButton.java
+END
+InternalWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/InternalWindow.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Menu.java
+END
+Tab.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Tab.java
+END
+PasswordField.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/PasswordField.java
+END
+PriceField.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/213/VisualTrading/src/org/visualtrading/gui/widgets/PriceField.java
+END
+Spin.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Spin.java
+END
+TabPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/TabPane.java
+END
+Expender.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/349/VisualTrading/src/org/visualtrading/gui/widgets/Expender.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Button.java
+END
+WindowProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/WindowProducer.java
+END
+Cadre.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Cadre.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Label.java
+END
+ScrollBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/ScrollBar.java
+END
+Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/Widget.java
+END
+IntSpin.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/IntSpin.java
+END
+TabBrView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/TabBrView.java
+END
+FakeCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/FakeCombo.java
+END
+CheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/CheckBox.java
+END
+KeyCodeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/KeyCodeField.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/TextField.java
+END
+SimpleMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/SimpleMenuItem.java
+END
+ColorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/ColorPanel.java
+END
+IntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/projects/!svn/ver/207/VisualTrading/src/org/visualtrading/gui/widgets/IntField.java
+END

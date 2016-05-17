@@ -1,0 +1,97 @@
+8
+
+dir
+1650
+http://byteeasy.com/svn/projects/VisualTrading/src/org/visualtrading/gui
+http://byteeasy.com/svn/projects
+
+
+
+2005-07-19T19:09:15.394693Z
+349
+deribas
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b7e849c-caec-0310-9e0e-b2fcc5d22210
+
+Control.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+f4741b19b1e1f7435d312f69faac7ba1
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
+events
+dir
+
+Config.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+793fff4d242f379afacd03798fa5752d
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
+widgets
+dir
+
+Part.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+d9794c6072283e1c42e4d66a50a68eef
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
+builders
+dir
+
+ControlImplementor.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+1f342fb1b0608e56a1174bdcfd6ed422
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
+Action.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+c03f02a9126ecfc2f112d812ccec5475
+2005-04-11T20:56:07.848196Z
+207
+deribas
+

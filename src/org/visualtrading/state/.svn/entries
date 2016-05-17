@@ -1,0 +1,52 @@
+8
+
+dir
+1650
+http://byteeasy.com/svn/projects/VisualTrading/src/org/visualtrading/state
+http://byteeasy.com/svn/projects
+
+
+
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7b7e849c-caec-0310-9e0e-b2fcc5d22210
+
+State.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+1ff2163f76067c9a3c1562d256a5e364
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
+Transition.java
+file
+
+
+
+
+2008-06-04T03:54:12.000000Z
+f45cd28c8a87e1f57f5ad4e109cc1a92
+2005-04-11T20:56:07.848196Z
+207
+deribas
+
