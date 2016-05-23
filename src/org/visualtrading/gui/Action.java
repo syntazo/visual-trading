@@ -1,7 +1,7 @@
 /**
- * Copyright (c) 2000,1,2,3,4,5 syntazo
+ * Copyright (c) 2000,1,2,3,4,5 syntazo llc
  *
- * @author thanos vassilakis
+ * @author thanos vassilakis, yarik chinskiy
  *
  */
 package org.visualtrading.gui;
